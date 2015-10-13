@@ -4,6 +4,8 @@ title: Team & Values
 permalink: /en/team/
 ---
 
+We are a team based in the US and Germany.
+
 Now is the time for all good men to come to
 the aid of their country. This is just a
 regular paragraph.
