@@ -22,7 +22,7 @@ layout: default_en
 			<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Enter your email address" required>
 		    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
 		    <div style="position: absolute; left: -5000px;"><input type="text" name="b_3371f7a528c9574bc791edceb_d7b72b5a9e" tabindex="-1" value=""></div>
-		    <input type="submit" value="Try Lale" name="subscribe" id="mc-embedded-subscribe" class="button">
+		    <input type="submit" value="Request early access to Lale" name="subscribe" id="mc-embedded-subscribe" class="button">
 		    </div>
 		</form>
 		</div>
