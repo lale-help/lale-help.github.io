@@ -8,7 +8,11 @@ dl, dd, ol, ul, figure {
     padding: 0;
 }
 
-
+$base-font-family: -apple-system, ".SFNSText-Regular", "Helvetica Neue", "Roboto", "Segoe UI", sans-serif;
+$base-font-size: 13px ;
+$text-color:#2C4C5E;
+$brand-color:#FF7043;
+$background-color: rgba(255,248,225,0.50);
 
 /**
  * Basic styling
@@ -17,7 +21,7 @@ body {
     font-family: $base-font-family;
     font-size: $base-font-size;
     line-height: $base-line-height;
-    font-weight: 300;
+    font-weight: 400;
     color: $text-color;
     background-color: $background-color;
     -webkit-text-size-adjust: 100%;
@@ -81,6 +85,28 @@ li {
  */
 h1, h2, h3, h4, h5, h6 {
     font-weight: 300;
+}
+
+h1{
+    font-size: 45px;
+    font-weight: 300;
+    line-height: 1.2em;
+}
+
+h2{
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.hero{
+    text-align: center;
+
+    & img{
+        -webkit-box-shadow: 2px 5px 20px 0px rgba(221,221,221,1);
+        -moz-box-shadow: 2px 5px 20px 0px rgba(221,221,221,1);
+        box-shadow: 2px 5px 20px 0px rgba(221,221,221,1);
+        margin:40px 0px;
+    }
 }
 
 
@@ -154,8 +180,8 @@ pre {
  * Wrapper
  */
 .wrapper {
-    max-width: -webkit-calc(800px - (#{$spacing-unit} * 2));
-    max-width:         calc(800px - (#{$spacing-unit} * 2));
+    max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
+    max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
     margin-right: auto;
     margin-left: auto;
     padding-right: $spacing-unit;
@@ -163,8 +189,8 @@ pre {
     @extend %clearfix;
 
     @include media-query($on-laptop) {
-        max-width: -webkit-calc(800px - (#{$spacing-unit}));
-        max-width:         calc(800px - (#{$spacing-unit}));
+        max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
+        max-width:         calc(#{$content-width} - (#{$spacing-unit}));
         padding-right: $spacing-unit / 2;
         padding-left: $spacing-unit / 2;
     }
