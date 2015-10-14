@@ -3,6 +3,7 @@ layout: page_en
 title: Team & Values
 permalink: /en/team/
 ---
+<style>.page-link.team { border-color:#FF7043; }</style>
 
 We are a team based in the US and Germany.
 
