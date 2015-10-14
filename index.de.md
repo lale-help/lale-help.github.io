@@ -47,7 +47,7 @@ layout: default_de
   		<b>Feedback & Leistungen</b><br/>Gehe sicher, dass jedermanns Anstrengungen beachtet und belohnt werden in deiner Gemeinschaft.
   	</div>
   	<div><img src="/img/homepage/fork.svg"/>
-  		<b>Lale befindet sich noch im Aufbau</b><br/>Gib uns Feedback oder werde Teil unseres Teams um Lale weiter auszubauen.<br/><br/>
+  		<b>Lale befindet sich noch im Aufbau</b><br/>Gib uns Feedback oder werde Teil unseres Teams um Lale weiter auszubauen.<br/>
   	</div>
   </div>
 </div>
