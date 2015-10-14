@@ -28,6 +28,27 @@ layout: default_en
 		</div>
 
 	<!--End mc_embed_signup-->
-    <img src="/img/dashboard.png" width="818px" />
+    <img src="/img/dashboard.png" width="818px"/>
+
   </div>
+	  <div class="homepage-features">
+	  	<div><img src="/img/homepage/member.svg"/> 
+	  		<h3><b>Robust member management</b><br/>Easily sign up your volunteers into your circle, set leaders and control what volunteers can do.</h3>
+	  	</div>
+	  	<div><img src="/img/homepage/pencil.svg"/> 
+	  		<h4><b>Efficient task coordination</b><br/>Sign up for a task, connect with other volunteers on a task and start a discussion.</h4>
+	  	</div>
+	  	<div><img src="/img/homepage/event.svg"/>
+	  		<h5><b>Complete event management</b><br/>Group tasks to tackle big challenges in an efficient way and gather the right people.</h5>
+	  	</div>
+	  	<div><img src="/img/homepage/clock.svg"/>
+	  		<h6><b>Reminders</b><br/>Lale automatically sends smart reminders to volunteers to make sure they're still available for a task.</h6>
+	  	</div>
+	  	<div><img src="/img/homepage/star.svg"/>
+	  		<h7><b>Feedback & Achievements</b><br/>Make sure everybody's efforts are well rewarded and recognized in your community.</h7>
+	  	</div>
+	  	<div><img src="/img/homepage/fork.svg"/>
+	  		<h8><b>We're still building Lale</b><br/>Join the discussion or even the team, to let us know what we should buid next.</h8>
+	  	</div>
+	  </div>
 </div>

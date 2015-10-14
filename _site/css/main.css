@@ -159,6 +159,20 @@ pre {
   .icon > svg path {
     fill: #828282; }
 
+div.homepage-features div {
+  width: 348px;
+  height: 112px;
+  margin-top: 32px;
+  margin-bottom: 32px;
+  margin-left: 10px;
+  margin-right: 10px;
+  display: inline-block; }
+  div.homepage-features div img {
+    float: left;
+    padding-right: 12px; }
+  div.homepage-features div h3, div.homepage-features div h4, div.homepage-features div h5, div.homepage-features div h6, div.homepage-features div h7, div.homepage-features div h8 {
+    font-size: 14px; }
+
 /**
  * Site header
  */
