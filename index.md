@@ -31,24 +31,24 @@ layout: default_en
     <img src="/img/dashboard.png" width="818px"/>
 
   </div>
-	  <div class="homepage-features">
-	  	<div><img src="/img/homepage/member.svg"/> 
-	  		<b>Robust member management</b><br/>Easily sign up your volunteers into your circle, set leaders and control what volunteers can do.
-	  	</div>
-	  	<div><img src="/img/homepage/pencil.svg"/> 
-	  		<b>Efficient task coordination</b><br/>Sign up for a task, connect with other volunteers on a task and start a discussion.
-	  	</div>
-	  	<div><img src="/img/homepage/event.svg"/>
-	  		<b>Complete event management</b><br/>Group tasks to tackle big challenges in an efficient way and gather the right people.
-	  	</div>
-	  	<div><img src="/img/homepage/clock.svg"/>
-	  		<b>Reminders</b><br/>Lale automatically sends smart reminders to volunteers to make sure they're still available for a task.
-	  	</div>
-	  	<div><img src="/img/homepage/star.svg"/>
-	  		<b>Feedback & Achievements</b><br/>Make sure everybody's efforts are well rewarded and recognized in your community.
-	  	</div>
-	  	<div><img src="/img/homepage/fork.svg"/>
-	  		<b>We're still building Lale</b><br/>Join the discussion or even the team, to let us know what we should buid next.<br/><br/>
-	  	</div>
-	  </div>
+  <div class="homepage-features">
+  	<div><img src="/img/homepage/member.svg"/> 
+  		<b>Robust member management</b><br/>Easily sign up your volunteers into your circle, set leaders and control what volunteers can do.
+  	</div>
+  	<div><img src="/img/homepage/pencil.svg"/> 
+  		<b>Efficient task coordination</b><br/>Sign up for a task, connect with other volunteers on a task and start a discussion.
+  	</div>
+  	<div><img src="/img/homepage/event.svg"/>
+  		<b>Complete event management</b><br/>Group tasks to tackle big challenges in an efficient way and gather the right people.
+  	</div>
+  	<div><img src="/img/homepage/clock.svg"/>
+  		<b>Reminders</b><br/>Lale automatically sends smart reminders to volunteers to make sure they're still available for a task.
+  	</div>
+  	<div><img src="/img/homepage/star.svg"/>
+  		<b>Feedback & Achievements</b><br/>Make sure everybody's efforts are well rewarded and recognized in your community.
+  	</div>
+  	<div><img src="/img/homepage/fork.svg"/>
+  		<b>We're still building Lale</b><br/>Join the discussion or even the team, to let us know what we should buid next.<br/><br/>
+  	</div>
+  </div>
 </div>
