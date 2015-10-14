@@ -7,7 +7,7 @@ layout: default_en
 <div class="home">
   <div class="hero">
     <h1>We're changing the way<br/>volunteers work together.</h1>
-    <h2>Lale is a complete task management system for volunteers communities.</h2>
+    <h2>Lale is a complete task management system for volunteer communities.</h2>
     <!-- Begin MailChimp Signup Form -->
 		<!-- <link href="//cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css"> -->
 		<style type="text/css">
@@ -22,7 +22,7 @@ layout: default_en
 			<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Enter your email address" required>
 		    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
 		    <div style="position: absolute; left: -5000px;"><input type="text" name="b_3371f7a528c9574bc791edceb_d7b72b5a9e" tabindex="-1" value=""></div>
-		    <input type="submit" value="Try Lale" name="subscribe" id="mc-embedded-subscribe" class="button">
+		    <input type="submit" value="Request early access to Lale" name="subscribe" id="mc-embedded-subscribe" class="button">
 		    </div>
 		</form>
 		</div>

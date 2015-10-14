@@ -1,28 +1,12 @@
 ---
 layout: page_en
-title: Join Us
+title: Built for volunteers by volunteers
 permalink: /en/join/
 ---
+<style>.page-link.join { border-color:#FF7043; }</style>
 
-A First Level Header
-====================
+The more we are, the fastest we can release updates to Lale and help volunteers making the World a better place. If you want to learn how you could help, look at our Github repositories, start contributing and join our Slack.
 
-A Second Level Header
----------------------
+<div class="github-card" data-github="lale-help/lale-help" data-width="400" data-height="150" data-theme="default"></div>
+<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
 
-Now is the time for all good men to come to
-the aid of their country. This is just a
-regular paragraph.
-
-<a href="http://google.com">Google</a>
-
-The quick brown fox jumped over the lazy
-dog's back.
-
-### Header 3
-
-> This is a blockquote.
-> 
-> This is the second paragraph in the blockquote.
->
-> ## This is an H2 in a blockquote
