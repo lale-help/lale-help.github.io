@@ -3,14 +3,13 @@ layout: page_en
 title: Impressum
 permalink: /en/legal/
 ---
-<style>.page-link.legal { border-color:#FF7043; }</style>
 
-Impressum von www.lale.help 
-Lale.help gGmbH
-Ammerseestr. 8
-85551 Kirchheim
-Geschäftsführer: Ralf Schröder
-Stammkapital: EUR 25.000,00
-ralf@lale.help
+Impressum von www.lale.help<br/>
+Lale.help gGmbH<br/>
+Ammerseestr. 8<br/>
+85551 Kirchheim<br/>
+Geschäftsführer: Ralf Schröder<br/>
+Stammkapital: EUR 25.000,00<br/>
+ralf@lale.help<br/>
 
 Handelsregisternummer beantragt; gGmbH in Gründung
