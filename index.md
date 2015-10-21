@@ -33,7 +33,7 @@ layout: default_en
   </div>
   <div class="homepage-features">
   	<div><img src="/img/homepage/member.svg"/> 
-  		<b>Robust member management</b><br/>Easily sign up your volunteers into your circle, set leaders and control what volunteers can do.
+  		<b>Robust member management</b><br/>Let your volunteers sign up to your circle, set leaders and control what volunteers can do.
   	</div>
   	<div><img src="/img/homepage/pencil.svg"/> 
   		<b>Efficient task coordination</b><br/>Sign up for a task, connect with other volunteers on a task and start a discussion.
@@ -48,7 +48,7 @@ layout: default_en
   		<b>Feedback & Achievements</b><br/>Make sure everybody's efforts are well rewarded and recognized in your community.
   	</div>
   	<div><img src="/img/homepage/fork.svg"/>
-  		<b>We're still building Lale</b><br/>Join the discussion or even the team, to let us know what we should buid next.<br/><br/>
+  		<b>We're still building Lale</b><br/>Join the discussion or even the team to let us know what we should build next.<br/><br/>
   	</div>
   </div>
 </div>
