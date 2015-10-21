@@ -32,22 +32,22 @@ layout: default_de
   </div>
   <div class="homepage-features">
   	<div><img src="/img/homepage/member.svg"/> 
-  		<b>Umfangreiche Mitglieder Verwaltung</b><br/>Melde einfach die Helfer in deinem Kreis an, lege Gruppenleiter fest und stelle ein was die Freiwilligen tun können.
+  		<b>Umfangreiche Mitgliederverwaltung</b><br/>Deine Helfer können sich einfach in deinem Kreis anmelden, lege Gruppenleiter fest und stelle ein, was die Freiwilligen tun können.
   	</div>
   	<div><img src="/img/homepage/pencil.svg"/> 
-  		<b>Effiziente Aufgaben Koordination</b><br/>Trage dich für eine Aufgabe ein, vernetze dich mit anderen Freiwilligen und spreche dich mit ihnen ab.
+  		<b>Effiziente Aufgabenkoordination</b><br/>Trage dich für eine Aufgabe ein, vernetze dich mit anderen Freiwilligen und spreche dich mit ihnen ab.
   	</div>
   	<div><img src="/img/homepage/event.svg"/>
-  		<b>Organisieren von ganzen Veranstaltungen</b><br/>Gruppenaufgaben helfen die richtigen Helfer zu versammeln um auch große Herausforderungen effizient zu meistert.
+  		<b>Organisieren von großen Aufgaben</b><br/>Organisiere auch komplexe Aufgaben, versammle die richtigen Helfer und meistere auch große Herausforderungen effizient.
   	</div>
   	<div><img src="/img/homepage/clock.svg"/>
   		<b>Erinnerungen</b><br/>Lale sendet automatisch Benachrichtigungen an Freiwillige um sicher zu gehen, dass sie noch für die Aufgabe zur Verfügung stehen.
   	</div>
   	<div><img src="/img/homepage/star.svg"/>
-  		<b>Feedback & Leistungen</b><br/>Gehe sicher, dass jedermanns Anstrengungen beachtet und belohnt werden in deiner Gemeinschaft.
+  		<b>Feedback & Leistungen</b><br/>Gehe sicher, dass in deiner Gemeinschaft jedermanns Anstrengungen beachtet und belohnt werden.
   	</div>
   	<div><img src="/img/homepage/fork.svg"/>
-  		<b>Lale befindet sich noch im Aufbau</b><br/>Gib uns Feedback oder werde Teil unseres Teams um Lale weiter auszubauen.<br/>
+  		<b>Lale befindet sich noch im Aufbau</b><br/>Gib uns Feedback oder werde Teil unseres Teams, um Lale weiter auszubauen.<br/>
   	</div>
   </div>
 </div>
