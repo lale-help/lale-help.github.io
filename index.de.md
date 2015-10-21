@@ -38,7 +38,7 @@ layout: default_de
   		<b>Effiziente Aufgabenkoordination</b><br/>Trage dich für eine Aufgabe ein, vernetze dich mit anderen Freiwilligen und spreche dich mit ihnen ab.
   	</div>
   	<div><img src="/img/homepage/event.svg"/>
-  		<b>Organisieren von großen Aufgaben</b><br/>Organisiere auch komplexe Aufgaben, versammle die richtigen Helfer und meistere auch große Herausforderungen effizient.
+  		<b>Organisieren von großen Aufgaben</b><br/>Organisiere auch komplexe Aufgaben, versammle die richtigen Helfer und meistere so auch große Herausforderungen.
   	</div>
   	<div><img src="/img/homepage/clock.svg"/>
   		<b>Erinnerungen</b><br/>Lale sendet automatisch Benachrichtigungen an Freiwillige um sicher zu gehen, dass sie noch für die Aufgabe zur Verfügung stehen.
