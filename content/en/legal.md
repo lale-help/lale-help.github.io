@@ -4,7 +4,6 @@ title: Impressum
 permalink: /en/legal/
 ---
 
-Impressum von www.lale.help<br/>
 Lale.help gGmbH<br/>
 Ammerseestr. 8<br/>
 85551 Kirchheim<br/>
