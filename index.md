@@ -6,7 +6,7 @@ layout: default_en
 
 <div class="home">
   <div class="hero">
-    <h1>We're changing the way<br/>volunteers work together.</h1>
+    <h1>We're changing the way<br/>volunteers work together<br/>to help refugees.</h1>
     <h2>Lale is a complete task management system for volunteer communities.</h2>
     <!-- Begin MailChimp Signup Form -->
 		<!-- <link href="//cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css"> -->
