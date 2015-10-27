@@ -6,8 +6,8 @@ layout: default_de
 
 <div class="home">
   <div class="hero">
-    <h1>Wir vereinfachen<br/>die Zusammenarbeit<br/>von Freiwilligen.</h1>
-    <h2>Lale ist ein umfassendes System zum Aufgabenmanagement für freiwillige Helfer.</h2>
+    <h1>Wir vereinfachen<br/>die Zusammenarbeit<br/>in der Flüchtlingshilfe.</h1>
+    <h2>Lale ist ein umfassendes System zum Aufgabenmanagement für Helferkreise.</h2>
     <!-- Begin MailChimp Signup Form -->
 		<!-- <link href="//cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css"> -->
 		<style type="text/css">
