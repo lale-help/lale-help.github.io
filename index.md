@@ -33,16 +33,16 @@ layout: default_en
   </div>
   <div class="homepage-features">
   	<div><img src="/img/homepage/member.svg"/> 
-  		<b>Robust member management</b><br/>Let your volunteers sign up to your circle, set leaders and control what volunteers can do.
+  		<b>Robust member management</b><br/>Let your volunteers sign up to your circle, define leaders and manage the engagement of your volunteers.
   	</div>
   	<div><img src="/img/homepage/pencil.svg"/> 
-  		<b>Efficient task coordination</b><br/>Sign up for a task, connect with other volunteers on a task and start a discussion.
-  	</div>
-  	<div><img src="/img/homepage/event.svg"/>
-  		<b>Complete event management</b><br/>Group tasks to tackle big challenges in an efficient way and gather the right people.
+  		<b>Efficient task coordination</b><br/>Define new tasks and let Lale help you find matching volunteers. Efficiently manage the entire task completion process and all discussions.
   	</div>
   	<div><img src="/img/homepage/clock.svg"/>
-  		<b>Reminders</b><br/>Lale automatically sends smart reminders to volunteers to make sure they're still available for a task.
+  		<b>Reminders</b><br/>Lale automatically sends smart reminders to volunteers to fill open task or to make sure assignees are still available for a task.
+  	</div>
+  	<div><img src="/img/homepage/event.svg"/>
+  		<b>Complex task management</b><br/>Group several tasks in a project to tackle big challenges in an efficient way.
   	</div>
   	<div><img src="/img/homepage/star.svg"/>
   		<b>Feedback & Achievements</b><br/>Make sure everybody's efforts are well rewarded and recognized in your community.
