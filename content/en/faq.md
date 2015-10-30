@@ -53,6 +53,6 @@ Data privacy is very important to Lale. We only capture data that is directly re
 Lale is a platform and uses hosting services in Europe for processing and storing any data.
 What technology does Lale use?
 
-Lale is open source so you can always review our code yourself. In fact, if you are a developer we would be excited to have you join our project at https://github.com/lale-help and https://lale.slack.com.
+Lale is open source so you can always review our code yourself. In fact, if you are a developer we would be excited to have you join our project at <a href="https://github.com/lale-help">https://github.com/lale-help</a> and <a href="https://lale.slack.com">https://lale.slack.com</a>.
 
 Lale.help is built as a Ruby on Rails application, hosted at heroku. We are using heroku's postgres database for application data and amazon's S3 storage for filedata. The heroku instance are deployed in the European region. The Lale.help website is build on jekyll and hosted on github directly. We are also looking for creative minds to join our website effort.
