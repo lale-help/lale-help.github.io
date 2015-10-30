@@ -300,16 +300,28 @@
     }
 }
 
+div.homepage-features {
+    overflow: hidden;
+}
+
 div.homepage-features div{
+    float: left;
     width:348px;
-    height: 112px;
     margin-top: 32px;
     margin-left:10px;
     margin-right:10px;
     display:inline-block;
     line-height: 1.8em;
 
-    & img{
+    &:nth-child(odd) {
+        clear: left;
+    }
+
+    p {
+        margin-left: 106px;
+    }
+
+    img{
         float:left;
         padding-right: 10px;
         margin-top: -3px;

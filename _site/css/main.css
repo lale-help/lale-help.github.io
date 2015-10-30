@@ -378,14 +378,21 @@ pre {
     text-shadow: 0px 1px 0px #C15B31;
     width: auto; }
 
+div.homepage-features {
+  overflow: hidden; }
+
 div.homepage-features div {
+  float: left;
   width: 348px;
-  height: 112px;
   margin-top: 32px;
   margin-left: 10px;
   margin-right: 10px;
   display: inline-block;
   line-height: 1.8em; }
+  div.homepage-features div:nth-child(odd) {
+    clear: left; }
+  div.homepage-features div p {
+    margin-left: 106px; }
   div.homepage-features div img {
     float: left;
     padding-right: 10px;

@@ -32,22 +32,40 @@ layout: default_de
   </div>
   <div class="homepage-features">
   	<div><img src="/img/homepage/member.svg"/> 
-  		<b>Umfangreiche Mitgliederverwaltung</b><br/>Melde einfach die Helfer in deinem Kreis an, lege Gruppenleiter fest und erziele dauerhaft eine hohe Hilfsbereitschaft.
+  		<b>Umfangreiche Mitgliederverwaltung</b>
+      <p>
+        Melde einfach die Helfer in deinem Kreis an, lege Gruppenleiter fest und erziele dauerhaft eine hohe Hilfsbereitschaft.
+      </p>
   	</div>
   	<div><img src="/img/homepage/pencil.svg"/> 
-  		<b>Effiziente Aufgabenkoordination</b><br/>Erstelle neue Aufgaben und Lale hilft Dir dabei, geeignete Helfer zu finden. Lale managed den gesamten Aufgabenprozess und die dazugehörige Kommunikation.
-  	</div>
+  		<b>Effiziente Aufgabenkoordination</b>
+      <p>
+        Erstelle neue Aufgaben und Lale hilft Dir dabei, geeignete Helfer zu finden. Lale managed den gesamten Aufgabenprozess und die dazugehörige Kommunikation.
+      </p>
+    </div>
   	<div><img src="/img/homepage/clock.svg"/>
-  		<b>Erinnerungen</b><br/>Lale sendet automatisch Benachrichtigungen, um noch offene Aufgabe zu besetzen oder sicher zu stellen, dass die eingetragenen Helfer noch für die Aufgabe zur Verfügung stehen.
+  		<b>Erinnerungen</b>
+      <p>
+        Lale sendet automatisch Benachrichtigungen, um noch offene Aufgabe zu besetzen oder sicher zu stellen, dass die eingetragenen Helfer noch für die Aufgabe zur Verfügung stehen.
+      </p>
   	</div>
   	<div><img src="/img/homepage/event.svg"/>
-  		<b>Organisieren von Projekten</b><br/>Lege für schwierige Aufgaben ein kleines Projekt an und meistere so auch große Herausforderungen effizient.
-  	</div>
+  		<b>Organisieren von Projekten</b>
+      <p>
+        Lege für schwierige Aufgaben ein kleines Projekt an und meistere so auch große Herausforderungen effizient.
+  	  </p>
+    </div>
   	<div><img src="/img/homepage/star.svg"/>
-  		<b>Feedback & Leistungen</b><br/>Lale gibt Feedback, so dass in deiner Gemeinschaft jedermanns Anstrengungen beachtet und belohnt werden.
+  		<b>Feedback & Leistungen</b>
+      <p>
+        Lale gibt Feedback, so dass in deiner Gemeinschaft jedermanns Anstrengungen beachtet und belohnt werden.
+      </p>
   	</div>
   	<div><img src="/img/homepage/fork.svg"/>
-  		<b>Lale befindet sich noch im Aufbau</b><br/>Welche Funktionen wären für Dich hilfreich? Gib uns Feedback oder werde Teil unseres Teams, um Lale weiter auszubauen.<br/>
+  		<b>Lale befindet sich noch im Aufbau</b>
+      <p>
+        Welche Funktionen wären für Dich hilfreich? Gib uns Feedback oder werde Teil unseres Teams, um Lale weiter auszubauen.
+      </p>
   	</div>
   </div>
 </div>
