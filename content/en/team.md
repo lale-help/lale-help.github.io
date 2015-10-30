@@ -26,5 +26,4 @@ We are compassionate. Lale is a humanitarian effort to support refugees in need,
 
 We are global and local. Lale is a global platform for volunteers all over the world that enables autonomous self-organization for local helper groups.
 
-
 <iframe style="border:none;" src="https://mapsengine.google.com/map/u/1/embed?mid=z2yDS9k1bl68.kfYtH_vdU_SM" width="100%" height="320"></iframe>

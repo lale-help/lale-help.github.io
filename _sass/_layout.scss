@@ -299,3 +299,19 @@
         width:auto;
     }
 }
+
+div.homepage-features div{
+    width:348px;
+    height: 112px;
+    margin-top: 32px;
+    margin-left:10px;
+    margin-right:10px;
+    display:inline-block;
+    line-height: 1.8em;
+
+    & img{
+        float:left;
+        padding-right: 10px;
+        margin-top: -3px;
+    }
+}

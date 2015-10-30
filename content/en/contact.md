@@ -4,4 +4,4 @@ title: Contact
 permalink: /en/contact/
 ---
 
-Contact us 
+Contact us at <a href="mailto:info@lale.help">info@lale.help</a>

@@ -6,8 +6,8 @@ layout: default_de
 
 <div class="home">
   <div class="hero">
-    <h1>Wir vereinfachen<br/>die Zusammenarbeit<br/>von Freiwilligen.</h1>
-    <h2>Lale ist ein umfassendes System zum Aufgabenmanagement für freiwillige Helfer.</h2>
+    <h1>Wir vereinfachen<br/>die Zusammenarbeit<br/>in der Flüchtlingshilfe.</h1>
+    <h2>Lale ist ein umfassendes System zum Aufgabenmanagement für Helferkreise.</h2>
     <!-- Begin MailChimp Signup Form -->
 		<!-- <link href="//cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css"> -->
 		<style type="text/css">
@@ -29,5 +29,25 @@ layout: default_de
 
 	<!--End mc_embed_signup-->
     <img src="/img/dashboard.png" width="818px" />
+  </div>
+  <div class="homepage-features">
+  	<div><img src="/img/homepage/member.svg"/> 
+  		<b>Umfangreiche Mitgliederverwaltung</b><br/>Melde einfach die Helfer in deinem Kreis an, lege Gruppenleiter fest und erziele dauerhaft eine hohe Hilfsbereitschaft.
+  	</div>
+  	<div><img src="/img/homepage/pencil.svg"/> 
+  		<b>Effiziente Aufgabenkoordination</b><br/>Erstelle neue Aufgaben und Lale hilft Dir dabei, geeignete Helfer zu finden. Lale managed den gesamten Aufgabenprozess und die dazugehörige Kommunikation.
+  	</div>
+  	<div><img src="/img/homepage/clock.svg"/>
+  		<b>Erinnerungen</b><br/>Lale sendet automatisch Benachrichtigungen, um noch offene Aufgabe zu besetzen oder sicher zu stellen, dass die eingetragenen Helfer noch für die Aufgabe zur Verfügung stehen.
+  	</div>
+  	<div><img src="/img/homepage/event.svg"/>
+  		<b>Organisieren von Projekten</b><br/>Lege für schwierige Aufgaben ein kleines Projekt an und meistere so auch große Herausforderungen effizient.
+  	</div>
+  	<div><img src="/img/homepage/star.svg"/>
+  		<b>Feedback & Leistungen</b><br/>Lale gibt Feedback, so dass in deiner Gemeinschaft jedermanns Anstrengungen beachtet und belohnt werden.
+  	</div>
+  	<div><img src="/img/homepage/fork.svg"/>
+  		<b>Lale befindet sich noch im Aufbau</b><br/>Welche Funktionen wären für Dich hilfreich? Gib uns Feedback oder werde Teil unseres Teams, um Lale weiter auszubauen.<br/>
+  	</div>
   </div>
 </div>

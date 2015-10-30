@@ -6,7 +6,7 @@ layout: default_en
 
 <div class="home">
   <div class="hero">
-    <h1>We're changing the way<br/>volunteers work together.</h1>
+    <h1>We're changing the way<br/>volunteers work together<br/>to help refugees.</h1>
     <h2>Lale is a complete task management system for volunteer communities.</h2>
     <!-- Begin MailChimp Signup Form -->
 		<!-- <link href="//cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css"> -->
@@ -31,24 +31,24 @@ layout: default_en
     <img src="/img/dashboard.png" width="818px"/>
 
   </div>
-	  <div class="homepage-features">
-	  	<div><img src="/img/homepage/member.svg"/> 
-	  		<h3><b>Robust member management</b><br/>Easily sign up your volunteers into your circle, set leaders and control what volunteers can do.</h3>
-	  	</div>
-	  	<div><img src="/img/homepage/pencil.svg"/> 
-	  		<h4><b>Efficient task coordination</b><br/>Sign up for a task, connect with other volunteers on a task and start a discussion.</h4>
-	  	</div>
-	  	<div><img src="/img/homepage/event.svg"/>
-	  		<h5><b>Complete event management</b><br/>Group tasks to tackle big challenges in an efficient way and gather the right people.</h5>
-	  	</div>
-	  	<div><img src="/img/homepage/clock.svg"/>
-	  		<h6><b>Reminders</b><br/>Lale automatically sends smart reminders to volunteers to make sure they're still available for a task.</h6>
-	  	</div>
-	  	<div><img src="/img/homepage/star.svg"/>
-	  		<h7><b>Feedback & Achievements</b><br/>Make sure everybody's efforts are well rewarded and recognized in your community.</h7>
-	  	</div>
-	  	<div><img src="/img/homepage/fork.svg"/>
-	  		<h8><b>We're still building Lale</b><br/>Join the discussion or even the team, to let us know what we should buid next.</h8>
-	  	</div>
-	  </div>
+  <div class="homepage-features">
+  	<div><img src="/img/homepage/member.svg"/> 
+  		<b>Robust member management</b><br/>Let your volunteers sign up to your circle, define leaders and manage the engagement of your volunteers.
+  	</div>
+  	<div><img src="/img/homepage/pencil.svg"/> 
+  		<b>Efficient task coordination</b><br/>Define new tasks and let Lale help you find matching volunteers. Efficiently manage the entire task completion process and all discussions.
+  	</div>
+  	<div><img src="/img/homepage/clock.svg"/>
+  		<b>Reminders</b><br/>Lale automatically sends smart reminders to volunteers to fill open task or to make sure assignees are still available for a task.
+  	</div>
+  	<div><img src="/img/homepage/event.svg"/>
+  		<b>Complex task management</b><br/>Group several tasks in a project to tackle big challenges in an efficient way.
+  	</div>
+  	<div><img src="/img/homepage/star.svg"/>
+  		<b>Feedback & Achievements</b><br/>Make sure everybody's efforts are well rewarded and recognized in your community.
+  	</div>
+  	<div><img src="/img/homepage/fork.svg"/>
+  		<b>We're still building Lale</b><br/>Join the discussion or even the team to let us know what we should build next.<br/><br/>
+  	</div>
+  </div>
 </div>

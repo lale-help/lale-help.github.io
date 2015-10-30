@@ -4,4 +4,4 @@ title: Kontakt
 permalink: /de/contact/
 ---
 
-Contact us 
+Kontaktiere uns unter <a href="mailto:info@lale.help">info@lale.help</a>
