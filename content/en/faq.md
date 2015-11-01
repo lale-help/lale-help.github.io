@@ -51,7 +51,8 @@ Lale stands as a symbol for all children refugees affected by the current crisis
 Data privacy is very important to Lale. We only capture data that is directly relevant to the process of coordinating help and required by the platform to function. We have written this down in more in detail in data privacy statement and you can always contact us at info@lale.help with any questions.
 
 Lale is a platform and uses hosting services in Europe for processing and storing any data.
-What technology does Lale use?
+
+<b>What technology does Lale use?</b>
 
 Lale is open source so you can always review our code yourself. In fact, if you are a developer we would be excited to have you join our project at <a href="https://github.com/lale-help">https://github.com/lale-help</a> and <a href="https://lale.slack.com">https://lale.slack.com</a>.
 
