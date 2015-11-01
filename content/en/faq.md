@@ -5,7 +5,7 @@ permalink: /en/faq/
 ---
 <style>.page-link.team { border-color:#FF7043; }</style>
 
-<b>Why should we help at all?</b>
+<p style="font-size:20px"><b>Why should we help at all?</b></p>
 
 Lale is about helping. It is about helping us all. 
 
