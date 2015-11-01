@@ -48,7 +48,7 @@ Lale stands as a symbol for all children refugees affected by the current crisis
 
 <p style="font-size:20px"><b>How does Lale handle my personal data?</b></p>
 
-Data privacy is very important to Lale. We only capture data that is directly relevant to the process of coordinating help and required by the platform to function. We have written this down in more in detail in our <a ref="/en/terms">data privacy statement</a> and you can always contact us at <a href="mailto:info@lale.help">info@lale.help</a> with any questions.
+Data privacy is very important to Lale. We only capture data that is directly relevant to the process of coordinating help and required by the platform to function. We have written this down in more in detail in our <a href="/en/terms">data privacy statement</a> and you can always contact us at <a href="mailto:info@lale.help">info@lale.help</a> with any questions.
 
 Lale is a platform and uses hosting services in Europe for processing and storing any data.
 
