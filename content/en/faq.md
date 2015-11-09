@@ -3,7 +3,6 @@ layout: page_en
 title: Frequently Asked Questions
 permalink: /en/faq/
 ---
-<style>.page-link.team { border-color:#FF7043; }</style>
 
 <p style="font-size:20px"><b>Why should we help at all?</b></p>
 
